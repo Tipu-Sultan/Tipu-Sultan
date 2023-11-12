@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving RestfulAPI's architecture.<br><br>👯 **I’m looking to good opportunity:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced MERN Stack<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js<br
+🔭 **I’m currently working on:**  <br>Improving RestfulAPI's architecture.<br><br>👯 **I’m looking to good opportunity:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advance MERN Stack<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js
 
 
 ## 🌐 Socials:
